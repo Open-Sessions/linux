@@ -16,7 +16,7 @@ Añadimos la tarea
 
 Se ejecutará cada 5 minutos e imprimirá los logs en syslog con la etiqueta monitortag.
 
-Para dar seguimiento a los logs generados por la tarea, utilizamos el comando:
+### Para dar seguimiento a los logs generados por la tarea, utilizamos el comando:
 
 grep monitortag /var/log/syslog
 
